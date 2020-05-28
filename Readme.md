@@ -16,16 +16,16 @@ go build
 * add
 
 ````
-* ./dictionary.exe --action add my_key my_definition
+./dictionary.exe --action add my_key my_definition
 ````
 
 * isDefine
 
 ````
-* ./dictionary.exe --action define my_key
+./dictionary.exe --action define my_key
 ````
 
 * Remove
 ````
-* ./dictionary.exe --action remove my_key
+./dictionary.exe --action remove my_key
 ````
